@@ -81,104 +81,21 @@ Example Usage:
  https://github.com/greatfire/envoy/blob/e5d54732979bab74412acffca1a7f4c5e8dbd717/android/demo/src/main/java/com/example/myapplication/CronetFragment.java#L73-L132
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2-	Using HttpUrlConnection:
 
-![image](https://user-images.githubusercontent.com/15171546/89523804-ef9d1100-d7fc-11ea-9dab-04dc28ab6b2f.png)
-
+https://github.com/greatfire/envoy/blob/e5d54732979bab74412acffca1a7f4c5e8dbd717/android/demo/src/main/java/com/example/myapplication/HttpURLConnectionFragment.java#L52-L122
  
-Make request like this:
- 
-![image](https://user-images.githubusercontent.com/15171546/89523837-f9267900-d7fc-11ea-9aca-2bfafad99975.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 3-	Using Okhttp:
  
- 
- ![image](https://user-images.githubusercontent.com/15171546/89523879-06dbfe80-d7fd-11ea-9084-fcfad3c8f5bc.png)
-
-
-
-Make request like this:
- 
-![image](https://user-images.githubusercontent.com/15171546/89523908-14918400-d7fd-11ea-9f8b-49da421b803f.png)
-
-
+https://github.com/greatfire/envoy/blob/e5d54732979bab74412acffca1a7f4c5e8dbd717/android/demo/src/main/java/com/example/myapplication/OkHttpFragment.java#L56-L119
 
 
 4-	Using Volley:
  
-
-![image](https://user-images.githubusercontent.com/15171546/89523941-2410cd00-d7fd-11ea-8294-49dcb385740f.png)
-
-
-![image](https://user-images.githubusercontent.com/15171546/89523964-30952580-d7fd-11ea-8d06-d68ceccc6cb9.png)
-
-
-Make request like this:
-
-![image](https://user-images.githubusercontent.com/15171546/89524012-3db21480-d7fd-11ea-8c98-1409918b9a82.png)
-
- 
+https://github.com/greatfire/envoy/blob/e5d54732979bab74412acffca1a7f4c5e8dbd717/android/demo/src/main/java/com/example/myapplication/VolleyFragment.java#L59-L130
 
 
 5-	Using Webview:
 
-![image](https://user-images.githubusercontent.com/15171546/89524038-499dd680-d7fd-11ea-8c37-f9d2739a12f5.png)
-
- 
+https://github.com/greatfire/envoy/blob/e5d54732979bab74412acffca1a7f4c5e8dbd717/android/demo/src/main/java/com/example/myapplication/WebViewFragment.java#L41-L56
