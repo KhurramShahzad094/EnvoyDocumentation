@@ -78,15 +78,7 @@ In its simplest form, an envoy URL is just an HTTP(s) URL, such as "https://allo
 Example Usage:
 1-	Using basic cronet
  
- ![image](https://user-images.githubusercontent.com/15171546/89523744-d1371580-d7fc-11ea-909e-b71cc564f713.png)
-
-
-Make request like this: 
-
-
-![image](https://user-images.githubusercontent.com/15171546/89523762-dd22d780-d7fc-11ea-8437-66b8a8ae8f53.png)
-
-
+ https://github.com/greatfire/envoy/blob/e5d54732979bab74412acffca1a7f4c5e8dbd717/android/demo/src/main/java/com/example/myapplication/CronetFragment.java#L73-L132
 
 
 
