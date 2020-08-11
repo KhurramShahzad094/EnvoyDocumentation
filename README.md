@@ -47,9 +47,12 @@ Your project’s minimum sdk should be 21
 
 Step 4:
 Add following dependencies into your build.gradle (Module:app)
+
+```
 implementation project(path: ':envoy')
 releaseImplementation project(path: ':cronet', configuration: 'release')
 debugImplementation project(path: ':cronet', configuration: 'debug')
+```
 
 if you are using Okhttp then add this dependency
 implementation 'com.squareup.okhttp3:okhttp:4.6.0'
