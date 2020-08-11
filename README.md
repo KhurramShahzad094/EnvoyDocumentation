@@ -11,8 +11,10 @@ Envoy is built on top of cronet which offers support for Okhttp, Volley, WebView
 In order to use envoy, you will need to download the following project from the link 
 https://github.com/greatfire/envoy
 After downloading the project from the above link,  Download the cronet.arr files from ReadMe file or click on the below links. There are two variants of cronet.
-**cronet-debug.aar**
-**cronet-release.aar**
+
+**[cronet-debug.aar](https://envoy.greatfire.org/static/cronet-debug.aar)**
+
+**[cronet-release.aar](https://envoy.greatfire.org/static/cronet-release.aar)**
 
 Download both and Copy these files and paste it into directory cronet which is inside folder android.
 ![image](https://user-images.githubusercontent.com/15171546/89523440-45bd8480-d7fc-11ea-8be9-a40fb5126bb8.png)
