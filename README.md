@@ -54,13 +54,17 @@ releaseImplementation project(path: ':cronet', configuration: 'release')
 debugImplementation project(path: ':cronet', configuration: 'debug')
 ```
 
+```
 if you are using Okhttp then add this dependency
+
 implementation 'com.squareup.okhttp3:okhttp:4.6.0'
+```
 
-
+```
 if you are using Volley then add this dependency
-implementation 'com.android.volley:volley:1.1.1'
 
+implementation 'com.android.volley:volley:1.1.1'
+```
 
 Now sync and build the project. Envoy has successfully integrated into your project.
 
